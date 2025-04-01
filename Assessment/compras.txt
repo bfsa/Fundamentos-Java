@@ -1,0 +1,15 @@
+Produto: Teste
+Quantidade: 1
+Preço unitário: R$ 1.0
+Valor total: R$ 1.0
+------------------------
+Produto: Teste2
+Quantidade: 2
+Preço unitário: R$ 2.0
+Valor total: R$ 4.0
+------------------------
+Produto: Teste3
+Quantidade: 3
+Preço unitário: R$ 3.0
+Valor total: R$ 9.0
+------------------------
